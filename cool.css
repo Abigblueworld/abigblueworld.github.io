@@ -1,2 +1,3 @@
-body {background-color: black
+body {background-image: url("/backgroup");
+      background-size: cover
      }
